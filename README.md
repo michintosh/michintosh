@@ -1,5 +1,5 @@
 # **Michelangelo Alesi**  
-*Web Developer – React · Typescript · Strapi · JAMStack*  
+*Front-End Engineer – React · Typescript · Strapi · JAMStack*  
 
 ---
 
